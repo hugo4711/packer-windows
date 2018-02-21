@@ -111,7 +111,7 @@
   "provisioners": [
     {
       "scripts": [
-        "./scripts/vmtool.bat",
+        "./scripts/vm-guest-tools.bat",
         "./scripts/enable-rdp.bat"
       ],
       "type": "windows-shell"
