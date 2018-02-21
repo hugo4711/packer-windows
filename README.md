@@ -1,7 +1,6 @@
----
-**WIP**
-This fork is intended to provide some Parallels Virtualization support.
----
+***
+**WIP:** This fork is intended to provide some Parallels Virtualization support.
+***
 
 # My Retina Windows Templates for Packer
 
